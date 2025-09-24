@@ -2,6 +2,12 @@
 
 ---
 
+# Evidence Synthesis – Interactive Module
+
+🔗 **Live Course:** [Evidence Synthesis](https://adnan-mayof.github.io/Evidence-Synthesis/)
+
+---
+
 ## 📘 Course Profile
 
 ### **Name of the Course**
@@ -12,28 +18,28 @@
 
 ### **🎯 Goal**
 
-To introduce learners to the fundamentals of **evidence synthesis** in a concise, interactive format. The course aims to raise awareness about systematic reviews, meta-analyses, and their role in evidence-based practice.
+To introduce learners to the fundamentals of **evidence synthesis** in a concise, interactive format. The course raises awareness about systematic reviews, meta-analyses, and their role in evidence-based practice.
 
 ---
 
 ### **❗ Problem**
 
-Many learners and practitioners struggle with:
+Many learners and professionals face challenges such as:
 
-* Understanding what evidence synthesis means.
-* Recognizing its importance in research and decision-making.
-* Engaging with traditional, text-heavy introductions that lack interactivity.
+* Difficulty understanding what evidence synthesis means.
+* Lack of engaging, accessible introductions to systematic review methods.
+* Reliance on text-heavy resources that do not support active learning.
 
 ---
 
 ### **💡 Solution**
 
-This project provides a **short, interactive HTML5 module** developed in *Articulate Storyline 360*.
+This project delivers a **short, interactive HTML5 module** developed in *Articulate Storyline 360*.
 
-* Learners engage with **five interactive slides**.
-* The design incorporates **multimedia elements** (narration, triggers, transitions).
-* Optimized for **desktop and mobile devices**, ensuring accessibility.
-* Connection handling features keep the experience stable even if the learner goes offline.
+* **5 interactive slides** with narration (\~53 seconds total).
+* **Multimedia-rich design** (audio narration, transitions, triggers).
+* **Responsive layout** that works across desktop, tablet, and mobile.
+* **Offline connection handling** for a seamless learner experience.
 
 ---
 
@@ -41,27 +47,28 @@ This project provides a **short, interactive HTML5 module** developed in *Articu
 
 * Undergraduate and graduate students in STEM or social sciences.
 * Early-career researchers exploring evidence-based practices.
-* Professionals who need a quick primer on **evidence synthesis** without lengthy reading.
+* Professionals needing a quick, engaging primer on evidence synthesis.
 
 ---
 
 ### **📊 Results**
 
-* A lightweight, **\~1 minute interactive course** with narration (\~53 seconds total).
-* Streamlined learner experience with **5 slides**.
-* Built-in device adaptability makes the module accessible on desktops, tablets, and smartphones.
-* Provides a **template** for future short-format, interactive learning experiences.
+* A **lightweight, \~1 minute course** ideal for microlearning.
+* Demonstrates how Storyline 360 can create reusable **interactive learning templates**.
+* Provides a **scalable model** for short, focused training modules.
 
 ---
 
 ### **🛠️ Tools Used**
 
-* **Articulate Storyline 360** – for authoring the interactive module.
-* **HTML5, CSS, JavaScript** – for course packaging and delivery.
-* **Browser/device detection** scripts – to ensure responsive playback across devices.
+* **Articulate Storyline 360** – primary authoring tool.
+* **HTML5, CSS, JavaScript** – packaged output for interactive delivery.
+* **Device/browser detection scripts** – ensure compatibility across platforms.
 
 ---
 
-👉 This format gives you a professional way to showcase the **instructional design process** and the **technical implementation** behind the project.
+✨ This repository serves as both a **live demo** of an instructional design artifact and a **reference project** for building microlearning experiences in research education.
 
-Would you like me to **combine this profile with the earlier GitHub description** into a polished `README.md` draft so it’s all in one place?
+---
+
+Do you want me to **generate the README.md file** directly (so you can just drop it into your repo), or would you prefer me to keep it as text here for copy-paste?
