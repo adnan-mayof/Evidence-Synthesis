@@ -1,7 +1,5 @@
 # Evidence-Synthesis
 
-Perfect — you want a **course profile** that frames your project like an instructional design case study. Based on the files you uploaded, here’s a structured draft you can adapt for your GitHub README or project page:
-
 ---
 
 ## 📘 Course Profile
