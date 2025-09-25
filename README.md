@@ -1,7 +1,3 @@
-# Evidence-Synthesis
-
----
-
 # Evidence Synthesis – Interactive Module
 
 🔗 **Live Course:** [Evidence Synthesis](https://adnan-mayof.github.io/Evidence-Synthesis/)
